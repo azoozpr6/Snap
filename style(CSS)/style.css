@@ -1,0 +1,10 @@
+@import url(header.css);
+@import url(hero.css);
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Epilogue', sans-serif;
+}
+

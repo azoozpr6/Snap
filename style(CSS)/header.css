@@ -1,0 +1,37 @@
+header
+{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+}
+#index-ul{
+    margin-left: 50px;
+}
+ul li
+{
+    display: inline-block;
+    margin: 0px 10px;
+}
+ul li a{
+    color: black;
+    text-decoration: none;
+}
+.logo{
+    margin-left: 10px;
+}
+h4{
+    cursor: pointer;
+}
+.signup-signin{
+    display: flex;
+    align-items: center;
+    float: right;
+    margin-right: 95px;
+    
+}
+.signup-signin a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 10px;
+}
